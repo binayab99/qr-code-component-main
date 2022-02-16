@@ -19,7 +19,7 @@ body {
   font-family: "Outfit", sans-serif;
   font-size: 15px;
   font-weight: 400;
-  background-color: var(--grayish_blue);
+  background-color: var(--light_gray);
   text-align: center;
   width: 100vw;
   height: 100vh;
